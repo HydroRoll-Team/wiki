@@ -43,7 +43,7 @@ extensions = [
     "sphinx.ext.inheritance_diagram",
     "sphinx.ext.imgmath",
     "sphinx.ext.intersphinx",
-    "sphinxcontrib.httpdomain",
+    # "sphinxcontrib.httpdomain",
     "sphinx.ext.ifconfig",
     "myst_parser",
 ]

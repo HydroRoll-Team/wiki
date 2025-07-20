@@ -5,7 +5,7 @@
 # from the environment for the first two.
 SPHINXOPTS    ?=
 SPHINXBUILD   ?= sphinx-build
-SOURCEDIR     = source
+SOURCEDIR     = docs/source
 BUILDDIR      = _build
 SPHINXINTL    ?= sphinx-intl 
 lang		  ?= zh_CN
