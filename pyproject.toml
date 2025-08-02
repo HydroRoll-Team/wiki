@@ -7,6 +7,8 @@ authors = [
 ]
 dependencies = [
     "furo>=2025.7.19",
+    "mkdocs>=1.6.1",
+    "mkdocs-alabaster>=0.8.0",
     "myst-parser>=4.0.1",
     "requests>=2.31.0",
     "sphinx>=8.2.3",
